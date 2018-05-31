@@ -6,30 +6,30 @@ If something doesn’t work, please tweet [@labnol](https://twitter.com/labnol).
 
 ## Getting Started
 
-1. Get a copy of the code
+* Get a copy of the code
 ```bash
 git clone https://github.com/labnol/javscript-starter my-project
 cd my-project
 ```
 
-2. Install the package dependencies
+* Install the package dependencies
 ```bash
 npm install
 ```
 
 Note: if you have the Yarn package manager installed, you can just run yarn. 
 
-3. Open the source code in Visual Studio Code and modify the application to your liking
+* Open the source code in Visual Studio Code and modify the application to your liking
 ```bash
 code .
 ```
 
-4. Run the app in develpment. Open localhost:8080 to view the app in your browser. The page will automatically reload if you make any changes to the code.
+* Run the app in develpment. Open localhost:8080 to view the app in your browser. The page will automatically reload if you make any changes to the code.
 ```bash
 npm start
 ```
 
-5. Build the app for production to the dist/ folder. Parcel bundles the app in production mode and optimizes the build for the best performance.
+* Build the app for production to the dist/ folder. Parcel bundles the app in production mode and optimizes the build for the best performance.
 ```bash
 npm run build
 ```
