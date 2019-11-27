@@ -1,4 +1,4 @@
-The starter kit contains all the necessary packages and scripts that you would need to kick off your next web development project using modern JavaScript. 
+The starter kit contains all the necessary packages and scripts that you would need to kick off your next web development project using modern JavaScript.
 
 There's no need to configure Webpack, Eslint or Babel, just clone this repository and you are good to go. The boilerplate also includes a minimal project in the ./src directory to help you quickly spin up a project.
 
@@ -8,7 +8,7 @@ If something doesn’t work, please tweet [@labnol](https://twitter.com/labnol).
 
 * Get a copy of the code
 ```bash
-git clone https://github.com/labnol/javscript-starter my-project
+git clone https://github.com/labnol/javascript-starter my-project
 cd my-project
 ```
 
@@ -17,7 +17,7 @@ cd my-project
 npm install
 ```
 
-Note: if you have the Yarn package manager installed, you can just run yarn. 
+Note: if you have the Yarn package manager installed, you can just run yarn.
 
 * Open the source code in Visual Studio Code and modify the application to your liking
 ```bash

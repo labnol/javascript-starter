@@ -1,6 +1,6 @@
 {
   "name": "javascript-starter",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A starter kit for building web projects with modern JavaScript",
   "author": "Amit Agarwal <amit@labnol.org> (https://digitalinspiration.com)",
   "license": "MIT",
@@ -24,16 +24,16 @@
     "starter"
   ],
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-preset-env": "^1.7.0",
-    "eslint": "^6.0.1",
-    "eslint-config-airbnb-base": "^13.2.0",
-    "eslint-config-prettier": "^6.0.0",
-    "eslint-plugin-import": "^2.18.0",
-    "eslint-plugin-prettier": "^3.1.0",
-    "node-sass": "^4.12.0",
-    "parcel": "^1.12.3",
-    "prettier": "^1.18.2",
-    "rimraf": "^2.6.3"
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "node-sass": "^4.13.0",
+    "parcel": "^1.12.4",
+    "prettier": "^1.19.1",
+    "rimraf": "^3.0.0"
   }
 }
