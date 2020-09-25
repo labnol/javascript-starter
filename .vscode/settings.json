@@ -3,5 +3,10 @@
   "editor.formatOnSave": false,
   "eslint.autoFixOnSave": true,
   "files.autoSave": "onFocusChange",
-  "eslint.validate": ["javascript"]
+  "eslint.validate": [
+    "javascript"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }
