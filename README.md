@@ -1,3 +1,5 @@
+# JavaScript Starter Kit
+
 The starter kit contains all the necessary packages and scripts that you would need to kick off your next web development project using modern JavaScript and Parcel 2.
 
 There's no need to configure Webpack, Eslint or Babel, just clone this repository and you are good to go. The boilerplate also includes a minimal project in the `./src` directory to help you quickly spin up a project.
