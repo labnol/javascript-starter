@@ -12,4 +12,4 @@ const array = range(0, 100, 10);
 const shuffledArray = shuffle(array);
 root.innerHTML += `<br /><br />${array} => ${shuffledArray}`;
 
-root.innerHTML += `<br /><br />The current date is ${new Date().toDateString()}`;
+root.innerHTML += `<br /><br />The current date is ${new Date().toLocaleDateString()}`;

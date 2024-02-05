@@ -1,10 +1,9 @@
 {
-  "eslint.alwaysShowStatus": true,
   "editor.formatOnSave": true,
   "files.autoSave": "onFocusChange",
   "eslint.validate": ["javascript"],
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   "workbench.colorCustomizations": {
     "xterminal.background": "#282936",
